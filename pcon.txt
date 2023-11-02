@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 No conflict
 Yes conflict
 Do we see it?
+=======
+Is there a conflict?
+huh?
+yeah?
+I believe so.
+>>>>>>> sub
