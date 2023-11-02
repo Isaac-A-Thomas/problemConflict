@@ -1,4 +1,3 @@
-conflict.
-huh.
-yeah.
-I believe so?
+No conflict
+Yes conflict
+Do we see it?
